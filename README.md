@@ -13,3 +13,7 @@ https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/build-re
 *****ASP.NET Core MVC********************
 
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-2.2&tabs=visual-studio
+
+
+*****TagHelper*********
+https://github.com/Rick-Anderson/TagHelperSamples
