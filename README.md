@@ -17,3 +17,6 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?v
 
 *****TagHelper*********
 https://github.com/Rick-Anderson/TagHelperSamples
+
+****Config*****
+https://stackoverflow.com/questions/19949709/use-of-authconfig-bundleconfig-filterconfig-routeconfig-and-webapiconfig-in
