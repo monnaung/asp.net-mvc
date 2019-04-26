@@ -20,3 +20,8 @@ https://github.com/Rick-Anderson/TagHelperSamples
 
 ****Config*****
 https://stackoverflow.com/questions/19949709/use-of-authconfig-bundleconfig-filterconfig-routeconfig-and-webapiconfig-in
+
+
+
+
+compressed.tracemonkey-pldi-09.pdf
