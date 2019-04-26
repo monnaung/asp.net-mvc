@@ -24,3 +24,4 @@ https://stackoverflow.com/questions/19949709/use-of-authconfig-bundleconfig-filt
 
 
 
+https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
