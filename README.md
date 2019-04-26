@@ -20,8 +20,3 @@ https://github.com/Rick-Anderson/TagHelperSamples
 
 ****Config*****
 https://stackoverflow.com/questions/19949709/use-of-authconfig-bundleconfig-filterconfig-routeconfig-and-webapiconfig-in
-
-
-
-
-https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
